@@ -1,14 +1,28 @@
+body{
+
+    background-image: url(https://i.imgur.com/f9Uk34X.jpg);
+}
+
 table{
     border: 2px solid black;
     border-collapse:collapse;
 
 }
 
-tr,td{
+tr{
     text-align:center;  
     border: 1px solid black;
     border-collapse:collapse;
     widows: 10px;
+    
+}
+
+td{
+    text-align:center;  
+    border: 1px solid black;
+    border-collapse:collapse;
+    widows: 10px;
+
 }
 
 thead{
