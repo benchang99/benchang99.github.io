@@ -1,4 +1,29 @@
-p{
-    color:rgb(34, 108, 219);
+
+
+#buttons button{
+
+    color: rgb(0, 41, 128);
+    background-color: red;
+}
+
+.about{
+    font-size:36px;
 
 }
+
+.about_apple{
+
+    font-size: 120px;
+}
+
+/* [type]{
+
+    color:rgb(219, 207, 34);
+    background-color: rgb(26, 21, 21);   
+} */
+
+*{
+
+    color:rgb(40, 219, 34);
+}
+

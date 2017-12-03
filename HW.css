@@ -1,0 +1,39 @@
+table{
+    border: 2px solid black;
+    border-collapse:collapse;
+    
+
+}
+
+tr,td{
+    text-align:center;  
+    border: 1px solid black;
+    border-collapse:collapse;
+    widows: 10px;
+}
+
+thead{
+    
+        background-color:rgb(141, 239, 252); 
+        font-weight:900;
+        border: 2px solid black;
+        border-collapse:collapse;        
+    }
+
+
+
+
+.name{
+
+font-size: 18px;
+color:red;
+
+}
+
+.fish img{
+
+    width:300px;
+    height:300px;
+
+}
+
